@@ -1,4 +1,9 @@
-Lisk facilitates DB interations through an OO approach. It was copied and adapted from the Lisk library within Phabricator (http://phabricator.org), a Facebook open source project.
+Lisk facilitates DB interations through an OO approach. It was copied and adapted from the Lisk library within Phabricator, a Facebook open source project.
+
+References:
+  Phabricator: http://phabricator.org
+  Lisk: https://github.com/facebook/phabricator/tree/master/src/infrastructure/storage/lisk
+
 
 LICENSE
 
