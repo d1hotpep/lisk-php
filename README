@@ -1,8 +1,13 @@
 Lisk facilitates DB interations through an OO approach. It was copied and adapted from the Lisk library within Phabricator, a Facebook open source project.
 
+
 References:
-  Phabricator: http://phabricator.org
-  Lisk: https://github.com/facebook/phabricator/tree/master/src/infrastructure/storage/lisk
+  Phabricator - http://phabricator.org
+  Lisk - https://github.com/facebook/phabricator/tree/master/src/infrastructure/storage/lisk
+
+
+Dependencies:
+  libphutil - https://github.com/facebook/libphutil
 
 
 LICENSE
