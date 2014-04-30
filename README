@@ -1,0 +1,5 @@
+Lisk facilitates DB interations through an OO approach. It was copied and adapted from the Lisk library within Phabricator (http://phabricator.org), a Facebook open source project.
+
+LICENSE
+
+Phabricator is released under the Apache 2.0 license except as otherwise noted.
